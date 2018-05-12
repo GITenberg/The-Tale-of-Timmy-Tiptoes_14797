@@ -1,0 +1,68 @@
+_repo: The-Tale-of-Timmy-Tiptoes_14797
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Timmy Tiptoes is a children's book written and illustrated\
+  \ by Beatrix Potter, and published by Frederick Warne & Co. in October 1911. Timmy\
+  \ Tiptoes is a squirrel believed to be a nut-thief by his fellows, and imprisoned\
+  \ by them in a hollow tree with the expectation that he will confess under confinement.\
+  \ Timmy is tended by Chippy Hackee, a friendly, mischievous chipmunk who has run\
+  \ away from his wife and is camping-out in the tree. Chippy urges the prisoner to\
+  \ eat the nuts stored in the tree, and Timmy does so but grows so fat he cannot\
+  \ escape the tree. He regains his freedom when a storm topples part of the tree.\
+  \ The tale contrasts the harmonious marriage of its title character with the less\
+  \ than harmonious marriage of the chipmunk.\nThe book sold well at release, but\
+  \ is now considered one of Potter's weakest productions. Potter never observed the\
+  \ tale's indigenous North American mammals in nature, and, as a result, her depictions\
+  \ are thought stiff and unnatural. Other elements in the story have come under fire:\
+  \ the rhymes, for example, reveal nothing about the characters nor do they provide\
+  \ an amusing game for the child reader in the manner of the rhymes in The Tale of\
+  \ Squirrel Nutkin. The storm in the finale is viewed as a weak plot device introduced\
+  \ solely to hurry the tale to its conclusion, and the marriage of the chipmunks\
+  \ has been described as \"abrasive and shocking\" and an impediment to the flow\
+  \ of the tale.\nThe tale's disappointing qualities have been ascribed to Potter's\
+  \ growing lack of interest in writing for children, to pressure from her publisher\
+  \ for yet another book, and to Potter's desire to exploit the lucrative American\
+  \ market. Potter's artistically successful books were written for specific children;\
+  \ Timmy Tiptoes however was composed for Potter's amorphous, ill-defined American\
+  \ fanbase. By 1911, the demands of her aging parents and the business operations\
+  \ at her working farm, Hill Top, occupied much of Potter's time and attention to\
+  \ the exclusion of nearly everything else, and are accounted as some of the reasons\
+  \ for the author's declining artistry and her lack of interest in producing children's\
+  \ books.\nCharacters from the tale have been reproduced as porcelain figurines,\
+  \ enamelled boxes, music boxes, and various ornaments by Beswick Pottery, Crummles,\
+  \ Schmid, and ANRI.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14797'
+  wikidata: Q6623073
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Squirrels -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: The Tale of Timmy Tiptoes
+url: http://www.gutenberg.org/ebooks/14797
+wikipedia:
+- https://en.wikisource.org/wiki/The_Tale_of_Timmy_Tiptoes
+- https://en.wikipedia.org/wiki/The_Tale_of_Timmy_Tiptoes
+- https://commons.wikimedia.org/wiki/Category:Timmy_Tiptoes
+- https://id.wikipedia.org/wiki/The_Tale_of_Timmy_Tiptoes
