@@ -44,6 +44,8 @@ description: "The Tale of Timmy Tiptoes is a children's book written and illustr
   \ books.\nCharacters from the tale have been reproduced as porcelain figurines,\
   \ enamelled boxes, music boxes, and various ornaments by Beswick Pottery, Crummles,\
   \ Schmid, and ANRI.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14797#The-Tale-of-Timmy-Tiptoes
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-01-25'
 gutenberg_type: Text
